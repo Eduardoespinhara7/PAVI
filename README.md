@@ -1,2 +1,2 @@
 # PAVI
-#Aplicações computacionais referente a integração definida
+Aplicações computacionais referentes a integração definida
